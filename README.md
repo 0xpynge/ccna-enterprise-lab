@@ -117,5 +117,7 @@ A simulated multi-site **Layer 2 + Layer 3 enterprise network** built in Cisco P
 
 Rani Kamaleddine
 
-[GitHub Profile](https://github.com/0xpynge)  
+[GitHub Profile](https://github.com/0xpynge)
+
+[LinkedIn](https://www.linkedin.com/in/rani-kamaleddine)
 

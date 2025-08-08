@@ -36,6 +36,10 @@ A simulated multi-site **Layer 2 + Layer 3 enterprise network** built in Cisco P
 - **Static Routing**: Between branches, plus floating static routes for redundancy
 - **Port Security**: Max 2 MAC addresses per PC port (PC + IP Phone), violation mode restrict
 - **WAN**: Point-to-point /30 subnets between HQ and branch routers
+- **WAN Point-to-Point Links (Core ↔ Edge Router)**:  
+  - Core 1 ↔ Edge Router: 10.10.10.0/30  
+  - Core 2 ↔ Edge Router: 11.11.11.0/30
+
 - **Default Routing**: Unknown destinations routed to ISP
 
 ---

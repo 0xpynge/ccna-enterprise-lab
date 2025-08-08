@@ -45,7 +45,7 @@ A simulated multi-site **Layer 2 + Layer 3 enterprise network** built in Cisco P
 ---
 
 ## 🖥️ Topology Overview
-
+![Logical Topology](Network_Diagram.png)
 **Main Site:**
 - 2× Cisco 3650-24PS core switches (Layer 3)  
 - 3× Cisco 2960-24TT floor switches  

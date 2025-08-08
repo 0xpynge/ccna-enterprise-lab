@@ -104,13 +104,14 @@ A simulated multi-site **Layer 2 + Layer 3 enterprise network** built in Cisco P
 
 ## 📂 Repository Contents
 
-- `ccna-project.pkt` - Packet tracer file
-- `Network_Diagram.png` - Logical topology diagram
+- [ccna-project.pkt](ccna-project.pkt) - Cisco Packet Tracer topology file
+- [Network_Diagram.png](Network_Diagram.png) - Logical topology diagram
 
 ---
 
 ## 🧑‍💻 Author
 
 Rani Kamaleddine
-[GitHub Profile](https://github.com/yourusername)  
+
+[GitHub Profile](https://github.com/0xpynge)  
 

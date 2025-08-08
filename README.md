@@ -22,10 +22,10 @@ A simulated multi-site **Layer 2 + Layer 3 enterprise network** built in Cisco P
 ## 🧰 Technologies & Protocols Used
 
 - **VLANs**:  
-  - VLAN 10 – Data  
-  - VLAN 20 – Servers  
-  - VLAN 30 – VoIP  
-  - VLAN 100 – Management (SSH)  
+  - VLAN 10 - Data  
+  - VLAN 20 - Servers  
+  - VLAN 30 - VoIP  
+  - VLAN 100 - Management (SSH)  
 - **VTP**: Server mode on cores for centralized VLAN control
 - **HSRP**: Virtual gateway (.254) for all VLANs across both cores
 - **STP**: Rapid-PVST with `portfast` and `bpduguard` on access ports

@@ -1,6 +1,6 @@
 # CCNA Enterprise Network Design & Implementation
 
-A simulated multi-site **Layer 2 + Layer 3 enterprise network** built in Cisco Packet Tracer, applying concepts from **CCNA Switching, Routing & WAN Technologies** with a focus on **high availability, security, and scalability**.
+
 
 ---
 

@@ -8,7 +8,7 @@ A simulated multi-site **Layer 2 + Layer 3 enterprise network** built in Cisco P
 
 - Design and implement a **redundant core** with Layer 3 switching
 - Configure **VLAN segmentation** for Data, VoIP, Server, and Management traffic
-- Enable **VTP** for centralized VLAN management
+- Enable **VTP** for centralized VLAN managementd
 - Implement **HSRP** for gateway redundancy
 - Configure **EtherChannel (LACP)** between core switches
 - Enable **Inter-VLAN routing** on multilayer switches

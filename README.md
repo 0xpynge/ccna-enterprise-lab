@@ -4,7 +4,7 @@ A simulated multi-site **Layer 2 + Layer 3 enterprise network** built in Cisco P
 
 ---
 
-## 🧠 Lab Objectives
+## 🧠 Lab Objectivess
 
 - Design and implement a **redundant core** with Layer 3 switching
 - Configure **VLAN segmentation** for Data, VoIP, Server, and Management traffic
